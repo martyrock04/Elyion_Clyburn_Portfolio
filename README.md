@@ -12,7 +12,7 @@ Find me on [**Linked In**](www.linkedin.com/in/elyion-clyburn-39a026286) and [**
 These files contain a plethora of designs, starting from my Computer-Aided Design course EML 1533 and continue throughout my time in my undergraduate studies at FIU.
 
 # Introduction to Mechatronics
-This was one of the most fun classes I have taken during my time in my undergraduate studies. [Here](Mechatronics), you will find a collection of projects constructed throughout the course, as well as other mechatronics projects I made on my own time.
+Introduction to Mechatronics, EML 4804, was one of the most fun classes I have taken during my time in my undergraduate studies. [Here](Mechatronics), you will find a collection of projects constructed throughout the course, as well as other mechatronics projects I made on my own time.
 
 # Senior Design Project
 To bring our academic journey to an end, engineering majors are required to complete a capstone project; to bring together all the skills we have accumulated over the years. Our website, which is constantly being updated, is linked [**here**](https://sea-gliders.pages.dev/). It contains the following, and much more:
