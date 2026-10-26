@@ -93,13 +93,13 @@ Home Project #2 Introduction to RB PICO Canvas Rubric
 - Breadboard wires
 
 ### Circuit image
-![Project 3 Configuration](Project 3 circuit configuration.png)
+<img src="Project 3 circuit configuration.png" alt="Project 3 circuit configuration">
 
 ### Video Link
 [Project 3 Video]()
 
 ### KiCAD Diagram
-![Project 3 KiCAD diagram](Project 3 KiCAD diagram.png)
+<img src="Project 3 KiCAD diagram.png" alt="Project 3 KiCAD diagram">
 
 ### Conclusions
 **What have you learned?** 
