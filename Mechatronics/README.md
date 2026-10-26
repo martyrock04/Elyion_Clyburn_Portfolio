@@ -26,7 +26,7 @@ The purpose of this projectis to learn how to build simple circuits by using the
 - Breadboard wires
 
 ### *Circuit image*
-<img src="Mechatronics/Project 1 circuit configuration.png" alt="Project 1 circuit configuration">
+<img src="Project 1 circuit configuration.png" alt="Project 1 circuit configuration">
 
 ### *Video Link*
 [Project 1 Video](https://youtu.be/jmQDxbgHbuQ)
