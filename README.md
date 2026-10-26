@@ -1,4 +1,4 @@
-# Welcome to my page!
+# Be friendly here
 
 <p align="center">
   <img src="Headshot.jpeg" alt="Elyion Clyburn Headshot" style="width: 75%; max-width: 400px; height: auto;">
