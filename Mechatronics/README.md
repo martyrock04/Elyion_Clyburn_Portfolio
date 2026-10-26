@@ -60,13 +60,13 @@ The purpose of this project is to understand basic coding and implementing them 
 - Breadboard wires
 
 ### Circuit image
-![Project 2 Configuration](Project 2 Circuit Configuration.png)
+<img src="Mechatronics/Project 2 circuit configuration.png" alt="Project 2 circuit configuration">
 
 ### Video Link
 [Project 2 Video](https://www.youtube.com/shorts/YENpWfqNBI8)
 
 ### KiCAD Diagram
-![Project 2 KiCAD Diagram](Project 2 KiCAD Diagram.png)
+<img src="Mechatronics/Project 1 KiCAD diagram.png" alt="Project 1 KiCAD diagram">
 
 ### Conclusions
 **What have you learned?** From this assignment, I learned how to use a Python program to code a circuit
