@@ -34,6 +34,17 @@ The purpose of this projectis to learn how to build simple circuits by using the
 ### *KiCAD Diagram*
 <img src="Project 1 KiCAD diagram.png" alt="Project 1 KiCAD diagram">
 
+### *Data and Discussion*
+Table: ___________
+
+Number of Capacitors	| Decay Time (s)	| LED Emission Intensity
+--- | --- | ---
+4	| 0.27	| Max Intensity/Bright
+3	| 0.26	| Max Intensity/Bright
+2	| 0.22	| Max Intensity/Bright
+1	| 0.13	| Max Intensity/Bright
+0	| 0.11	| Max Intensity/Bright
+
 ### *Conclusions*
 **What have you learned?** From this assignment, I learned how to create and read electrical schematics (better), and how to carefully create a simple circuit from mentioned schematics.
 
