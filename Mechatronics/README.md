@@ -32,7 +32,7 @@ The purpose of this projectis to learn how to build simple circuits by using the
 [Project 1 Video](https://youtu.be/jmQDxbgHbuQ)
 
 ### *KiCAD Diagram*
-<img src="Mechatronics/Project 1 KiCAD diagram.png" alt="Project 1 KiCAD diagram">
+<img src="Project 1 KiCAD diagram.png" alt="Project 1 KiCAD diagram">
 
 ### *Conclusions*
 **What have you learned?** From this assignment, I learned how to create and read electrical schematics (better), and how to carefully create a simple circuit from mentioned schematics.
@@ -60,13 +60,13 @@ The purpose of this project is to understand basic coding and implementing them 
 - Breadboard wires
 
 ### Circuit image
-<img src="Mechatronics/Project 2 circuit configuration.png" alt="Project 2 circuit configuration">
+<img src="Project 2 circuit configuration.png" alt="Project 2 circuit configuration">
 
 ### Video Link
 [Project 2 Video](https://www.youtube.com/shorts/YENpWfqNBI8)
 
 ### KiCAD Diagram
-<img src="Mechatronics/Project 1 KiCAD diagram.png" alt="Project 1 KiCAD diagram">
+<img src="Project 2 KiCAD diagram.png" alt="Project 2 KiCAD diagram">
 
 ### Conclusions
 **What have you learned?** From this assignment, I learned how to use a Python program to code a circuit
