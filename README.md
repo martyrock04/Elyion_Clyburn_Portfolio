@@ -9,8 +9,8 @@ Hey! I am Elyion Clyburn, pronounced eh-lie-yawn, and I am graduating from Flori
 Find me on [**Linked In**](www.linkedin.com/in/elyion-clyburn-39a026286) and [**Handshake**](https://fiu.joinhandshake.com/profiles/6hhb7p).
 
 <p align="left">
-# Computer-Aided Design Models
-These files contain a plethora of designs, starting from my Computer-Aided Design course EML 1533 and continue throughout my time in my undergraduate studies at FIU.
+<"# Computer-Aided Design Models
+These files contain a plethora of designs, starting from my Computer-Aided Design course EML 1533 and continue throughout my time in my undergraduate studies at FIU." style="max-width: 200px">
 </p>
 
 <p align="center">
