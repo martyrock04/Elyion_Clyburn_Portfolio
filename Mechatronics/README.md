@@ -1,8 +1,6 @@
----
 layout: default
 title: Mechatronics Projects
 permalink: /Mechatronics/
----
 
 # EML 4804 Intro to Mechatronics
 
